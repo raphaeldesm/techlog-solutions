@@ -1,4 +1,3 @@
 .venv
-app/__pycache__
-app/modelos/__pycache__
-app/rotas/__pycache__
+**/__pycache__
+*.db
